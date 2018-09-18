@@ -31,7 +31,7 @@ Wall-E is a modern Jekyll template with a magazine-like grid layout on the front
 
 Wall-E is fully furnished right out of the box. To use this template on your blog
 - If this is your first Jekyll blog, follow this <a href="https://jekyllrb.com/docs/installation/">helpful guide</a> to set up Jekyll.
-- Fork this repository, rename the fork as `your-username.github.io`. Your blog should immediately be live on `https://your-username.github.io`
+- Fork this repository, rename the fork as `cunganhtu`. Your blog should immediately be live on `https://cunganhtu`
 - Clone your fork
 - Delete everything in `_posts` directory. Delete the `tmp` directory.
 - Open `_config.yml` and set the variables
